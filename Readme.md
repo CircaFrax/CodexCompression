@@ -17,7 +17,7 @@
 
 > Portable Offline
 
-Le problème
+## Le problème
 Windows sait faire du ZIP. À moitié. Il aplatit tout, oublie l'arborescence, et pour le reste il vous propose d'installer 3 logiciels, une barre d'outils et un compte.
 
 ## Aperçu
