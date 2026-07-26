@@ -48,26 +48,19 @@ Glisser une archive ou Ouvrir archive
 Naviguer avec ← Retour, double-clic sur dossier
 Double-clic sur fichier pour l'ouvrir en temp
 Extraire tout → choisis le dossier → arborescence restituée
-📁 Structure
+
+
+### 📁 Structure
+
+```
 CodexCompression/
 ├───CodexCompression.exe
-├───_Assets/
-│   └───icons/
-│       └───CodexCompresson.ico
-├───_Doc/
 │   ├───LICENCE.md
 │   ├───LICENSE.md
 │   └───THIRD_PARTY_LICENSES.md
-└───README.md
-Version dev :
 
-_Code/
-├───CodexCompression_v3.3.4_CREAM.py
-└───modules/
-    ├───mod_zip.py
-    ├───mod_7z.py
-    ├───mod_jar.py
-    └───mod_rar.py  (lecture seule)
+```
+
 🔒 Confidentialité
 Zéro réseau : tout se passe sur votre PC, pas de télémétrie
 N'écrit que ce que vous demandez : l'archive que vous créez
