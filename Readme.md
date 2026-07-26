@@ -2,7 +2,7 @@
 CodexCompression v3.3.4
 <p align="center"> <img src="https://raw.githubusercontent.com/CircaFrax/CodexCompression/main/assets/CodexCompression_box.png" width="420"> </p>
 ⬇️ Télécharger CodexCompression v3.3.4 (Windows)
-SHA256: e837f264c52e3292065ca1003d216cf1c55c81c86062c64895165e9cb8b52bcf
+'SHA256: e837f264c52e3292065ca1003d216cf1c55c81c86062c64895165e9cb8b52bcf'
 
 L'archiveur qui fait le boulot. Sans installation. Sans cloud. Sans pub.
 
