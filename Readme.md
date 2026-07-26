@@ -20,7 +20,7 @@
 Le problème
 Windows sait faire du ZIP. À moitié. Il aplatit tout, oublie l'arborescence, et pour le reste il vous propose d'installer 3 logiciels, une barre d'outils et un compte.
 
-Aperçu
+## Aperçu
 <img src="assets/Screenshot_v3.3.3.png" width="650"> *Compresser à gauche, explorer à droite – tree /f conservé, 100% offline*
 La solution Codex
 CodexCompression est un seul .exe qui remplace WinRAR / 7-Zip pour 95% des usages, sans rien installer.
