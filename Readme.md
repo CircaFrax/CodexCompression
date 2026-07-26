@@ -55,9 +55,9 @@ Extraire tout → choisis le dossier → arborescence restituée
 ```
 CodexCompression/
 ├───CodexCompression.exe
-│   ├───LICENCE.md
-│   ├───LICENSE.md
-│   └───THIRD_PARTY_LICENSES.md
+├───LICENCE.md
+├───LICENSE.md
+└───THIRD_PARTY_LICENSES.md
 
 ```
 
