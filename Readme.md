@@ -30,9 +30,7 @@ Arborescence conservée : tu mets un dossier avec 4 fichiers + une image → tu 
 Explorer intégré : double-clic pour naviguer, ouvrir un fichier sans tout extraire, bandeau avec chemin
 4 formats, clean : ZIP, 7Z, JAR créables + RAR en lecture seule (licence RARLAB oblige, on ne peut pas créer de .rar)
 Popup de validation : ✅ verte avec icône étoile, Archive créée + nom du fichier, bouton bien visible
-Portable : un seul .exe, _Assets/icons/ avec l'étoile, pas de registre, pas de favorites.json qui traîne
-Tri intelligent : 7Z avant JAR/RAR/ZIP (chiffres d'abord), Essentiels repliables
-Aucune installation. Fonctionne sur clé USB.
+Portable : un seul .exe
 
 📖 Utilisation
 Lancer CodexCompression.exe
