@@ -61,20 +61,18 @@ CodexCompression/
 
 ```
 
-🔒 Confidentialité
-Zéro réseau : tout se passe sur votre PC, pas de télémétrie
-N'écrit que ce que vous demandez : l'archive que vous créez
-customtkinter MIT + tkinterdnd2 MIT + Pillow HPND + rarfile ISC + unRAR freeware (extraction seule) - voir THIRD_PARTY_LICENSES.md
-🗺️ Roadmap
- v3.3.3 - Single EXE, tri clean, Essentiels repliables, drag & drop partout
- v3.3.4 - Popup validation avec icône, arborescence tree /f, RAR bloqué en création (licence)
- v3.4.0 - Prévisualisation images dans l'explorer + recherche
- v3.5.0 - Chiffrement ZIP AES
- v4.0.0 - Suite Codex : CodexArchive & CodexView
-📄 Licence
-CircaFrax Proprietary Freeware v1.0
+### 🔒 Confidentialité
+- **Zéro réseau** : tout se passe sur votre PC, pas de télémétrie
+N'écrit que ce que vous demandez : l'archive que vous créez, voir THIRD_PARTY_LICENSES.md
 
-Vous pouvez utiliser et partager l'exécutable gratuitement, pour toujours, où vous voulez, perso ou pro. Vous ne pouvez pas voler le code ni revendre l'exe seul. Le code source reste privé.
+### 🗺️ Roadmap
+- [x] v3.3.3 - Single EXE, tri clean, Essentiels repliables, drag & drop partout
+- [ ] v3.4.0 - Prévisualisation images dans l'explorer + recherche
+- [ ] v3.5.0 - Chiffrement ZIP AES
+- [ ] v0.5.0 - v4.0.0 - Suite Codex : CodexArchive & CodexView
 
-Fait partie de la suite Codex — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
+### 📄 Licence
+CircaFrax Proprietary Freeware
 
+---
+**Fait partie de la suite Codex** — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
