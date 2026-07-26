@@ -13,11 +13,9 @@
 </p>
 
 
-L'archiveur qui fait le boulot. Sans installation. Sans cloud. Sans pub.
+# L'archiveur qui fait le boulot. Sans installation. Sans cloud. Sans pub.**
 
-Portable [blocked]
-Offline [blocked]
-Python [blocked]
+> Portable Offline
 
 Le problème
 Windows sait faire du ZIP. À moitié. Il aplatit tout, oublie l'arborescence, et pour le reste il vous propose d'installer 3 logiciels, une barre d'outils et un compte.
