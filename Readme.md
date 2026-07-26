@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://circafrax.github.io/assets/banniere.png" width="500"> </p>
-CodexCompression v3.3.4
+
+# CodexCompression v3.3.4
+
 <p align="center"> <img src="https://raw.githubusercontent.com/CircaFrax/CodexCompression/main/assets/CodexCompression_box.png" width="420"> </p>
 
 
