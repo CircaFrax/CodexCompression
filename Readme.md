@@ -63,7 +63,7 @@ N'écrit que ce que vous demandez : l'archive que vous créez, voir THIRD_PARTY_
 
 ### 🗺️ Roadmap
 - [x] v3.3.3 - Single EXE, tri clean, Essentiels repliables, drag & drop partout
-- [ ] v3.4.0 - Prévisualisation images dans l'explorer + recherche
+- [x] v3.4.0 - Prévisualisation images dans l'explorer + recherche
 - [ ] v3.5.0 - Chiffrement ZIP AES
 - [ ] v0.5.0 - v4.0.0 - Suite Codex : CodexArchive & CodexView
 
