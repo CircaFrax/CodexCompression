@@ -80,7 +80,7 @@ CodexCompression/
 - [x] v3.3.2 - Single EXE, tri clean, Essentiels repliables, drag & drop
 - [x] v3.3.3 - Prévisualisation images
 - [x] v3.5.4 - 21 formats, Simple et Universel, interface épurée
-- [ ] v3.6.0 - Histoire des formats
+- [ ] v3.6.0 - Hommage aux créateurs de tout les formats de compressions
 - [ ] v4.0.0 - Suite Codex + Chiffrement
 
 ### Licence
