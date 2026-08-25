@@ -65,6 +65,7 @@ Extraire tout → choisir dossier
 CodexCompression/
 ├───CodexCompression.exe
 ├───LICENCE.md
+├───LICENSE.md
 └───THIRD_PARTY_LICENSES.md
 ```
 
