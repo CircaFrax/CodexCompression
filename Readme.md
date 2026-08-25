@@ -24,7 +24,7 @@ Windows sait faire du ZIP. À moitié. Il aplatit tout, oublie l'arborescence, e
 
 ## Aperçu
 <img src="assets/Screenshot_v3.5.4.png" width="650">
-*Compresser à gauche, explorer à droite – tree /f conservé, 100% offline*
+*Compresser à gauche, explorer à droite, 100% offline*
 
 ## La solution Codex v3.5.4
 CodexCompression est un seul .exe qui remplace WinRAR / 7-Zip pour 95% des usages, sans rien installer.
