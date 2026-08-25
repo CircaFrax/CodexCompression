@@ -11,7 +11,7 @@
 <p align="center">
 
 ### ⬇ [Télécharger CodexCompression v3.5.4 (Windows)](https://github.com/CircaFrax/CodexCompression/releases/download/3.5.4/CodexCompression_v3.5.4.zip)
-`SHA256: [à générer après build final]`
+`SHA256: 7fa03f38bd0caae07eff8a0291884b3695f5130e56b7ef8a20db68d2d2ac0f3d`
 
 </p>
 
